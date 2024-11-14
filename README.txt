@@ -1,2 +1,2 @@
 TWE STEPS ARE NEEDED TO SEND A FILE TO GIT REPOSITORY.
-Xuzixin is a beauty.
+Xuzixin is a beauty
